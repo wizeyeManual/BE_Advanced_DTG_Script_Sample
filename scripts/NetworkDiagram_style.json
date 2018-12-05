@@ -1,0 +1,82 @@
+[
+    {
+        "name": "image_x",
+        "value": 200
+    },
+    {
+        "name": "image_y",
+        "value": 100
+    },
+    {
+        "name": "image_w",
+        "value": 1500
+    },
+    {
+        "name": "image_h",
+        "value": 100
+    },
+    {
+        "name": "object_count",
+        "value": 5
+    },
+    {
+        "name": "object_margin_w",
+        "value": 60
+    },
+    {
+        "name": "object_margin_h",
+        "value": 20
+    },
+    {
+        "name":"borderColor",
+        "value":"#FFFFFFFF"
+    },
+    {
+        "name":"fillColor",
+        "value":"#80000000"
+    },
+    {
+        "name":"backGroundColor",
+        "value":"#80000000"
+    },
+    {
+        "name":"borderThickness",
+        "value":3.0,
+        "format":"0.0"
+    },
+    {
+        "name":"borderRadius",
+        "value":5.0,
+        "format":"0.0"
+    },
+    {
+        "name":"titleColor",
+        "value":"#FFFFFFFF"
+    },
+    {
+        "name":"textColor",
+        "value":"#FFFFFFFF"
+    },
+    {
+        "name":"textAlign",
+        "value":"center"
+    },
+    {
+        "name":"fontSize",
+        "value":30.0,
+        "format":"0.0"
+    },
+    {
+        "name":"showAlarmLamp",
+        "value":true,
+        "type":"boolean"
+    },
+    {
+        "name":"lineColor",
+        "value":"#FFffff00"
+    },
+    {
+        "name":"lineThickness",
+        "value":3
+    }
+]
